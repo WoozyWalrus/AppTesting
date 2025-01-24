@@ -63,6 +63,10 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
+            "Microsoft.Playwright.MSTest": {
+              "target": "Package",
+              "version": "[1.49.0, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.0, )"
